@@ -27,6 +27,12 @@ Here are some ideas to get you started:
 [![LeetCode](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=LeetCode&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fharsh98&logo=leetcode&logoColor=yellow)](https://leetcode.com/harsh98/)
 
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=harshnamdev98&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=harshnamdev98&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=harshnamdev98&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=flase&layout=compact)
+
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=harshnamdev98&theme=nord&no-frame=true&no-bg=false&margin-w=4)
 
